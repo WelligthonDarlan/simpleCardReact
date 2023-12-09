@@ -1,0 +1,6 @@
+.profilePhoto{
+  box-shadow: -5px 5px 5px 5px #00000055;
+  border-radius: 50%;
+  width: 50%;
+  height: auto;
+}
